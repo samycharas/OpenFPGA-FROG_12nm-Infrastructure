@@ -1,3 +1,3 @@
 #Software Folder
 
-TODO: Describe this folder structure
+TODO: Develop demoboard firmware if needed.
