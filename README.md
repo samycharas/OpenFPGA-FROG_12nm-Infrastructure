@@ -10,7 +10,7 @@ There is no operating system hard requirement, however development has been done
 Development tools:
 
 - Eagle 9.6.2 - Download [HERE](http://eagle.autodesk.com/eagle/software-versions/50)
-- AutoCAD 2022 (optional, Drawing tool for wirebonding schematics)  - Download [HERE][https://www.autodesk.com/products/autocad/free-trial)
+- AutoCAD 2022 (optional, Drawing tool for wirebonding schematics)  - Download [HERE](https://www.autodesk.com/products/autocad/free-trial)
 - ESP-IDF <Version to confirm> - Download [HERE](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
 
 # Directory description

@@ -1,6 +1,6 @@
 The demoboard hardware folder structure contains informations required to manufacture the FROG_12nm chip's demonstration boards.
 
-#BoardsFiles
+# BoardsFiles
 
 This directory regroups the design files of the different demonstration board :
  

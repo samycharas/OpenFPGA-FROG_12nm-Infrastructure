@@ -4,19 +4,19 @@ TODO: Style Readme's
 
 # Documentation
 
-## Wirebonding diagram
+- Wirebonding diagram
 
 This is the wire bonding diagram sent to Integra, it describes wire connections between the chip and the package. It is best to open with autocad if possible as we recorded some visual bugs with other software readers. Integra is using the one with blackwires, leaving both for transparency.
 
-## Pinout Description
+- Pinout Description
 
 Pinout description of the package. This must have been used to design the daughterboard, and should be checked in case there’s a mismatch between pins.
 
-## Packaging guidelines
+- Packaging guidelines
 
 A few guidelines for the next Tapeout LNIS intends to do, aswell as a glossary with keywords in the packaging field.
 
-# ManufactureurFiles
+# ManufacturerFiles
 
 - Gerbers
 
@@ -35,4 +35,4 @@ This files describes the controlled impedance tracks on the package, note that i
 - AssemblyHouseDocs is the PDF guideline of the assembly house.
 
 
-# TODO: Submodules pointing to BSP352 folder which is the opensource package we've used.
+TODO: Submodules pointing to BSP352 folder which is the opensource package we've used.
