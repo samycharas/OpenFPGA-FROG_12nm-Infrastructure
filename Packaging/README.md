@@ -1,6 +1,4 @@
-# Packaging Folder Structure description
-
-TODO: Style Readme's
+## Packaging Folder Structure description
 
 # Documentation
 
